@@ -18,6 +18,12 @@ We could hide numbers of followers. Maybe show the users how many people are fol
 
 Other things in life don't show public numbers, but we still use them. A blog does not have a counter that states how many people subscribe to the RSS feed. If the content is high in quality and meaningful it will be linked to, shared, and show up high in search results.
 
+### Groups instead of individual followers/following
+
+* You can either follow a group or join it
+* Each user gets a private, personal group
+* A group can be 1. open (anyone can join) 2. closed (only join by invitation from someone in the group) or 3. approval only (any user can ask to join a group, but someone inside must accept them).
+
 ## Fostering depth
 
 People spend hours on Facebook, but don't really spend time on the things they see. 
