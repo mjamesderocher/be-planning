@@ -1,0 +1,1 @@
+Maybe we should use a Facebook-like mutual follow agreement for connections. And then anyone can follow a group.  
