@@ -22,9 +22,17 @@ Create a terms of service that lay out rules for proper conduct. Set a way for p
 	* Search only the Bible
 	* Search courses
 * Create a group
+* Contact customer support by chat
 
 ## Future features
 
 * Dark mode
 * Highlights (community topical Bible)
 * Quora-like questions
+* Evernote sync
+* Dropbox sync
+* Other Bible versions
+* Quizes
+* Memorization tools
+* Bible study helps
+* Audio Bible narration
