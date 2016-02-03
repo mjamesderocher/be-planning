@@ -20,6 +20,13 @@ Other things in life don't show public numbers, but we still use them. A blog do
 
 ### Groups instead of individual followers/following
 
+    In a social network, people are held together by pre-established interpersonal relationships, such as kinship, friendship, classmates, colleagues, business partners, etc. The connections are built one at a time (i.e. you connect directly with another user). The primary reason that people join a social networking site is to maintain old relationships and establish new ones to expand their network.
+    Communities are held together by common interest. It may be a hobby, something the community members are passionate about, a common goal, a common project, or merely the preference for a similar lifestyle, geographical location, or profession. Clearly people join the community because they care about this common interest that glues the community members together. Some stay because they felt the urge to contribute to the cause; others come because they can benefit from being part of the community.—https://community.lithium.com/t5/Science-of-Social-blog/Community-vs-Social-Network/ba-p/5283
+    
+    Our infographic ‘social media & community’ was created with our partners Shilbrook Associates. It maps out the distinctions between wanting attention (social media) and wanting to engage (owned community).—http://www.4-roads.com/Social/Blog/social-media-and-community-rules-of-thumb
+
+    Unfortunately, true community in our modern world is hard to find for soldiers and civilians alike. Instead, we increasingly live out our lives as members of networks. This transition from community to network life is truly at the heart of the increasing feelings of loneliness, anxiety, and anomie that many people experience in the modern age. We’ve never been so “connected” — and yet so isolated at the same time.—[Art of Manliness](http://www.artofmanliness.com/2014/07/01/communities-vs-networks-to-which-do-you-belong/
+
 * You can either follow a group or join it
 * Each user gets a private, personal group
 * A group can be 1. open (anyone can join) 2. closed (only join by invitation from someone in the group) or 3. approval only (any user can ask to join a group, but someone inside must accept them).
@@ -32,3 +39,7 @@ Limit how much people see at one time. Use algorithms to show what is relevant i
 
 Add a way for editors to pin quality content in the margin even if the person does not follow the content creator. Sort of like the featured page on the App Store, but for each Bible chapter.
 
+    That person is Bluma Wulfovna Zeigarnik, a Gestalt psychologist and psychiatrist who made significant contributions to the establishment of the discipline of experimental psychology. In 1927 she discovered that incomplete or interrupted tasks are remembered better than completed tasks – this phenomena is now known as the Zeigarnik Effect. It’s based on the idea that the initiation of a task creates a task-specific tension, which can only be relieved upon task completion. Bluma’s studies showed that when people are interrupted halfway through a task, they are twice as likely to remember that task, as opposed to other tasks which they complete uninterrupted.
+    One of the most popular methods of increasing user engagement on the web today is through various forms of social proof. For socially conscious users, the incentive to keep their “score” high can be a powerful motivator to stay engaged with an app because it triggers their desire for external validation. Virtually every type of social network keeps a “score” of some kind, be it likes, follows, comments, etc. This is a highly effective way of harnessing the Zeigarnik Effect because most users are not satisfied with their “score” – there is always the desire to get more likes, follows, etc. Users desiring to increase their score will post more engaging content more often, and in doing so become involved in a positive feedback loop of engagement.—[Dan Birman](http://www.dtelepathy.com/blog/design/ux-how-drive-deep-user-engagement)
+    
+Badges and progress bars for gamification. We can automatically create a badge by overlaying text over the course image. 
