@@ -78,6 +78,8 @@ We are not just a Bible reading app like NueBible, YouVersion, or Bible Gateway.
 
 We are not mainly focused on studying materials by big-named, published authors like Logos or OliveTree.
 
+We don't need to do everything ourselves. We should find partners and integrations that can add value with little upkeep on our part. 
+
 ## Views
 
 ### Global
