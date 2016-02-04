@@ -22,7 +22,9 @@ Create a terms of service that lay out rules for proper conduct. Set a way for p
 	* Search only the Bible
 	* Search courses
 * Create a group
+* Join a group
 * Contact customer support by chat
+* Create an account
 
 ## Future features
 
@@ -36,3 +38,5 @@ Create a terms of service that lay out rules for proper conduct. Set a way for p
 * Memorization tools
 * Bible study helps
 * Audio Bible narration
+* Prayer list (it would be nice to interface with another already-created app)
+* Follow a topic
