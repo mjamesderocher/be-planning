@@ -20,16 +20,30 @@ Other things in life don't show public numbers, but we still use them. A blog do
 
 ### Groups instead of individual followers/following
 
+Most groups/communities are confusing and complicated. They are not user-friendly.
+
     In a social network, people are held together by pre-established interpersonal relationships, such as kinship, friendship, classmates, colleagues, business partners, etc. The connections are built one at a time (i.e. you connect directly with another user). The primary reason that people join a social networking site is to maintain old relationships and establish new ones to expand their network.
     Communities are held together by common interest. It may be a hobby, something the community members are passionate about, a common goal, a common project, or merely the preference for a similar lifestyle, geographical location, or profession. Clearly people join the community because they care about this common interest that glues the community members together. Some stay because they felt the urge to contribute to the cause; others come because they can benefit from being part of the community.—https://community.lithium.com/t5/Science-of-Social-blog/Community-vs-Social-Network/ba-p/5283
     
     Our infographic ‘social media & community’ was created with our partners Shilbrook Associates. It maps out the distinctions between wanting attention (social media) and wanting to engage (owned community).—http://www.4-roads.com/Social/Blog/social-media-and-community-rules-of-thumb
 
-    Unfortunately, true community in our modern world is hard to find for soldiers and civilians alike. Instead, we increasingly live out our lives as members of networks. This transition from community to network life is truly at the heart of the increasing feelings of loneliness, anxiety, and anomie that many people experience in the modern age. We’ve never been so “connected” — and yet so isolated at the same time.—[Art of Manliness](http://www.artofmanliness.com/2014/07/01/communities-vs-networks-to-which-do-you-belong/
+    Unfortunately, true community in our modern world is hard to find for soldiers and civilians alike. Instead, we increasingly live out our lives as members of networks. This transition from community to network life is truly at the heart of the increasing feelings of loneliness, anxiety, and anomie that many people experience in the modern age. We’ve never been so “connected” — and yet so isolated at the same time.—[Art of Manliness](http://www.artofmanliness.com/2014/07/01/communities-vs-networks-to-which-do-you-belong/)
 
 * You can either follow a group or join it
 * Each user gets a private, personal group
 * A group can be 1. open (anyone can join) 2. closed (only join by invitation from someone in the group) or 3. approval only (any user can ask to join a group, but someone inside must accept them).
+* Groups can be hidden or visible.
+* People should feel that they have a part of the group. Everyone is given equal opportunity to share.
+* There has to be at least two people in a group for it to be visible.
+* The size should be limited to some number. The smaller a group is, the harder it is for someone to be lost. The easier it is to listen and know everyone in the group.
+* Can a note be only in one group, or can it be in multiple?
+* Easy rules and explanations of things in the group.
+
+Example uses of a group: A church, A Sunday school class, a small group from a large church, a family, a Bible school or seminary class, an interest such as illustrated faith or Bible journaling, or a ministry writing team.
+
+What about copyrights and groups?
+
+
 
 ## Fostering depth
 
@@ -44,4 +58,60 @@ Add a way for editors to pin quality content in the margin even if the person do
     
 Badges and progress bars for gamification. We can automatically create a badge by overlaying text over the course image. 
 
-    In-line with the work of psychologists dating back to Gestalt psychologist Kurt Lewin, to modern-day researchers like BJ Fogg, the app uses the principle that by making an intended behavior easier to do, people do it more often.—[Nir Eyal](http://www.nirandfar.com/2013/07/the-app-of-god-getting-100-million-downloads-is-more-psychology-than-miracles.html
+Should we feed the innate, human desires of pride and selfishness? Most social networks get people to come back by alluring them to be more "liked" or to grow a following.
+
+Notifications of what people are posting in a group will help people to keep engaging. Let people easily opt out of notifications for a group.
+
+We could use reminder notifications like YouVersion to remind people to do work on their studies.
+
+    In-line with the work of psychologists dating back to Gestalt psychologist Kurt Lewin, to modern-day researchers like BJ Fogg, the app uses the principle that by making an intended behavior easier to do, people do it more often.—[Nir Eyal](http://www.nirandfar.com/2013/07/the-app-of-god-getting-100-million-downloads-is-more-psychology-than-miracles.html)
+
+## Mission and Vision
+
+Mission: Bible exchange connects Christians together through study of the Bible.
+
+Vision: Our vision is to create a social-network where Christians can share their knowledge of the Bible with others.
+
+How are we different?
+
+We are not just a Bible reading app like NueBible, YouVersion, or Bible Gateway.
+
+We are not mainly focused on studying materials by big-named, published authors like Logos or OliveTree.
+
+We don't need to do everything ourselves. We should find partners and integrations that can add value with little upkeep on our part. 
+
+## Views
+
+### Global
+
+* Home page
+* Create an account
+* Sign in
+* Navigation
+* Support chat
+* User settings
+* Search bar
+* Search results
+
+### Bible
+
+* Bible
+* Verse picker
+* Margin (social from groups)
+* Create a note
+
+### Studies
+
+* Study information and settings
+* Study list
+* Study step
+* Course builder
+* Dashboard
+
+### Social
+
+* Suggested groups
+* Social feed (activity)
+* User profile
+* Group feed
+* Group info and settings
