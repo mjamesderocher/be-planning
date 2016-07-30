@@ -40,3 +40,4 @@ Create a terms of service that lay out rules for proper conduct. Set a way for p
 * Audio Bible narration
 * Prayer list (it would be nice to interface with another already-created app)
 * Follow a topic
+
