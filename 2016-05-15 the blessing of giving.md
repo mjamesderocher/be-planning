@@ -64,3 +64,4 @@ Pro 14:21  He that despiseth his neighbour sinneth: but he that hath mercy on th
 Pro 19:17  He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again.
 
 The widow woman that gave Elijah the little she had never went without.
+
